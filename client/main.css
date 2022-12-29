@@ -1,0 +1,16 @@
+#videos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4em;
+    padding: 25px;
+}
+
+.video-player{
+    background-color: #000;
+    width: 100%;
+    height: 440px;
+}
+
+video{
+    /* display: none; */
+}
